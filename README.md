@@ -26,7 +26,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakanKARASU&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakanKARASU&layout=compact&text_color=daf7dc&bg_color=151515)]([https://github.com/devSouvik/github-readme-stats](https://github.com/HakanKARASU/HakanKARASU/edit/main/README.md))
 
 
 <h3> 🤝🏻 Connect with Me </h3>
