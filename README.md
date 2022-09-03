@@ -4,7 +4,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on deep learning machine learning 
+- 🔭 &nbsp; I’m currently working on implementation of deep learning on electrochemical system 
+-  🌱 I’m currently learning GradCAM and its application
 - 🤔 &nbsp; Exploring new technologies 
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence .
@@ -40,15 +41,5 @@
 <!--
 **HakanKARASU/HakanKARASU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on deep learning
-- 🌱 I’m currently learning GradCAM and its application
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HakanKARASU&theme=radical)
