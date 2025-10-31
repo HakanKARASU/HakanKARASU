@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on implementation of deep learning on electrochemical system 
--  🌱 I’m currently learning GradCAM and its application
+- 🔭 &nbsp; I’m currently working on implementation of deep learning on a system 
+-  🌱 I’m currently deploying CNN with GradCAM++ in real time
 - 🤔 &nbsp; Exploring new technologies 
 - 🎓 &nbsp; Studying computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence .
