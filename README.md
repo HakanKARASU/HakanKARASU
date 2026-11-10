@@ -1,46 +1,41 @@
+# Hakan Karasu
 
-<h2> Hey there! I'm Hakan KARASU. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+**PhD student in Production Technology · University West, Sweden**
 
-<h3> 👨🏻‍💻 About Me </h3>
+I work with sensor data and machine learning to understand manufacturing processes. My current research focuses on thermal monitoring in wire-arc additive manufacturing (WAAM), sensor calibration, and AI models that can run close to the process.
 
-- 🔭 &nbsp; I’m currently working on implementation of deep learning on a system 
--  🌱 I’m currently deploying CNN with GradCAM++ in real time
-- 🤔 &nbsp; Exploring new technologies 
-- 🎓 &nbsp; Studying computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-<h3>🛠 Tech Stack</h3>
+[Research portfolio](https://hakankarasu.github.io/) · [Email](mailto:hakankarasu97@hotmail.com)
 
-- 💻 &nbsp; Python | Dart | Java | C++ | Solidworks |
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
-- Microcontrollers for Tiny machine learning models
-<br>
+## Research interests
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HakanKARASU&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hakan's Github Stats">
+- **Metal additive manufacturing:** thermal behaviour and adaptive waiting between deposited layers in WAAM.
+- **Reliable sensing:** temperature prediction, sensor calibration, and drift in measurement data.
+- **Edge AI:** local model inference for process monitoring and timely decisions.
+- **Interpretable deep learning:** attention mechanisms and model interpretation for physical systems.
 
-</br>
+I am also exploring how acoustic emission could complement thermal measurements in WAAM.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakanKARASU&layout=compact&text_color=daf7dc&bg_color=151515)]([https://github.com/devSouvik/github-readme-stats](https://github.com/HakanKARASU/HakanKARASU/edit/main/README.md))
+## Selected publications
 
+- **[Blind Calibration of Pyrometers for Press Hardening Industries with Process-Driven Constraints](https://doi.org/10.1109/SAS65169.2025.11105164)** — H. Karasu et al., IEEE Sensors Applications Symposium (SAS), 2025.
+- **[Discovering the Origin of Catalyst Performance and Degradation of Electrochemical CO₂ Reduction through Interpretable Machine Learning](https://doi.org/10.1021/acscatal.4c05530)** — D. Shin, H. Karasu et al., *ACS Catalysis* 15(3), 2158–2170, 2025.
 
-<h3> 🤝🏻 Connect with Me </h3>
+## Selected repositories
 
-<p align="center">
+| Project | Focus |
+| --- | --- |
+| [Temperature prediction](https://github.com/HakanKARASU/machinelearningmodeltemperatureprediction) | A pipeline for predicting thermocouple temperatures from pyrometer data, with data preparation, model comparison, and visualisation. |
+| [Gas classification under sensor drift](https://github.com/HakanKARASU/Gas-Sensor-Array-Drift-Dataset) | Machine-learning experiments using the public Gas Sensor Array Drift benchmark. |
+| [ResNet-50 with CBAM](https://github.com/HakanKARASU/ResNet-50-CBAM-PyTorch) | A PyTorch implementation with and without attention, including feature-map visualisation. |
 
-&nbsp; <a href="hakankaraasu97@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+## Earlier work
 
+My earlier work includes interpretable deep learning for electrochemical systems and mobile robotics with ROS.
 
+## Methods and tools
 
+Python · PyTorch · sensor-data analysis · model evaluation · model interpretation · ROS · Git
 
+## Contact
 
-
-
-
-
-
+For research discussions and collaboration, contact me at [hakankarasu97@hotmail.com](mailto:hakankarasu97@hotmail.com), or visit my [personal website](https://hakankarasu.github.io/).
