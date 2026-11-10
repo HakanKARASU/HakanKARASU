@@ -13,13 +13,6 @@ I work with sensor data and machine learning to understand manufacturing process
 - **Edge AI:** local model inference for process monitoring and timely decisions.
 - **Interpretable deep learning:** attention mechanisms and model interpretation for physical systems.
 
-I am also exploring how acoustic emission could complement thermal measurements in WAAM.
-
-## Selected publications
-
-- **[Blind Calibration of Pyrometers for Press Hardening Industries with Process-Driven Constraints](https://doi.org/10.1109/SAS65169.2025.11105164)** — H. Karasu et al., IEEE Sensors Applications Symposium (SAS), 2025.
-- **[Discovering the Origin of Catalyst Performance and Degradation of Electrochemical CO₂ Reduction through Interpretable Machine Learning](https://doi.org/10.1021/acscatal.4c05530)** — D. Shin, H. Karasu et al., *ACS Catalysis* 15(3), 2158–2170, 2025.
-
 ## Selected repositories
 
 | Project | Focus |
